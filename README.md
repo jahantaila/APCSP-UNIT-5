@@ -3,7 +3,7 @@
 
 
 **LESSON 1:**
-
+--------------------------------------------------------------------------
 Prompt 1 - Why are these lists useful?
 
 - Lists help us group together like information

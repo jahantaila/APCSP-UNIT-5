@@ -11,3 +11,4 @@ Prompt - What programming patterns with lists do you think you'll need to use?
 - This app uses the List Scrolling pattern to scroll through the values, and a boundary counter pattern to change the values of each reminder index. Also wouldent the app use a dependency interjection pattern because we pass the differnet list objects through an event handler instead of creating it immidetly? 
 
 
+![image](https://user-images.githubusercontent.com/75226884/147503466-7cc87e0d-cd29-41f3-8b7e-9036667e7adf.png)

@@ -24,3 +24,15 @@ Prompt 1 - Why are these lists useful?
 ![image](https://user-images.githubusercontent.com/75226884/147501244-4528a557-528e-4044-8db5-611b72f1698c.png)
 ![image](https://user-images.githubusercontent.com/75226884/147501317-f2298a44-6712-4464-8fad-b60d41c1cf00.png)
 ![image](https://user-images.githubusercontent.com/75226884/147501326-b20e1e43-5dca-4141-ba56-e88606254ee3.png)
+
+
+
+
+**LESSON 2: LISTS INVESTIGATE**
+--------------------------------------------------------------------------
+
+Warm up - How does a list manage complexity in a program?
+- Programs that use lists are easier to read and manage - separate variables are not needed for each individual element
+
+Warm Up - What are some similarities and differences between lists and variables?
+- You don't need to know how a list is created in order to use it - all you need is the name. There is a separation between the abstract properties of the data type (list) and the concrete details of its representation.

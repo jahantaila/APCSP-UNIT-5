@@ -2,7 +2,7 @@
 
 
 
-**LESSON 1:**
+**LESSON 1: LISTS EXPLORE**
 --------------------------------------------------------------------------
 Prompt 1 - Why are these lists useful?
 

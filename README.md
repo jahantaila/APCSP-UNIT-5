@@ -14,4 +14,4 @@ Prompt 1 - Why are these lists useful?
 
 Question - Discuss what the list will contain after line 02 runs.
 
-- ![image](https://user-images.githubusercontent.com/75226884/147500634-d1c093f6-56ba-4a3c-bd2d-bc2b82bd5700.png)
+- ANSWER: ![image](https://user-images.githubusercontent.com/75226884/147500634-d1c093f6-56ba-4a3c-bd2d-bc2b82bd5700.png)

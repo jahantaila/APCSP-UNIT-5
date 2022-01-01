@@ -15,3 +15,47 @@ Warm Up - ![image](https://user-images.githubusercontent.com/75226884/147859853-
 
 ^ The robot will end up in the same place
 
+
+![image](https://user-images.githubusercontent.com/75226884/147859962-10fa56ad-6d21-4aed-9eff-b5121fa9254c.png)
+
+^ Where will the robot end up? 
+
+![image](https://user-images.githubusercontent.com/75226884/147859991-6f4de79d-7b5d-448b-bce7-547819571309.png)
+
+
+^ This is where the robot will end up 
+
+![image](https://user-images.githubusercontent.com/75226884/147860035-a650299a-3da7-49eb-8871-d778deff1646.png)
+
+^ Where will this robot end up? 
+
+^ ![image](https://user-images.githubusercontent.com/75226884/147860039-3aa30f43-a283-4fcb-9aeb-679c903ef355.png)
+
+This is where the robot will end up 
+ 
+ ![image](https://user-images.githubusercontent.com/75226884/147860059-f52ae77b-ac9d-4fbe-bc96-da4c3eda2b13.png)
+
+  ^ Where will this robot end up? 
+  
+  ^ ![image](https://user-images.githubusercontent.com/75226884/147860065-b723c681-931f-45e8-9c56-f6b98a5d8b5f.png) - This is where the robot will end up 
+  
+  
+Now its more challenging - 
+
+
+![image](https://user-images.githubusercontent.com/75226884/147860082-2f1a6961-c748-4079-a575-143e32ca490d.png)
+
+^ Where will the  robot end up? 
+
+^ This is where the robot will end up - ![image](https://user-images.githubusercontent.com/75226884/147860108-e02d45ca-1947-4070-8066-b961a4284322.png)
+
+
+![image](https://user-images.githubusercontent.com/75226884/147860109-79a32f04-7172-46e9-b935-46ed7a8ae767.png)
+
+^ Where will this robot end up? 
+
+^ This is where the robot will end up - ![image](https://user-images.githubusercontent.com/75226884/147860114-06d7a81c-834c-43e0-aefa-525cd05c3304.png)
+
+
+  
+
